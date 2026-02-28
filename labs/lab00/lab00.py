@@ -5,5 +5,5 @@ def twenty_twenty_six():
     >>> twenty_twenty_six()
     2026
     """
-    return ______
+    return 2026
 
